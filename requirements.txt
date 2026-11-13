@@ -1,0 +1,3 @@
+# openJiuwen as in the regulation example; pin the full set with `pip freeze` before the final submission.
+openjiuwen==0.1.19
+openai>=1.30.0,<2.0.0
